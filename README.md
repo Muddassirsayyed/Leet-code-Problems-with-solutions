@@ -2,7 +2,9 @@
 
 # 🚀 Daily LeetCode Solutions by Muddassir
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+My+LeetCode+Journey!;Solving+DSA+Problems+Every+Day+🚀;Consistency+%2B+Practice+%3D+Success" />
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Welcome+to+My+LeetCode+Journey!;Solving+DSA+Problems+Every+Day;Consistency+%2B+Practice+%3D+Success" />
+</div>
 
 <br>
 
